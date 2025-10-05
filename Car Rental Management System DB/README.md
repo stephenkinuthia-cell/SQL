@@ -34,14 +34,14 @@ This schema includes eight core tables, each modeling a critical aspect of a car
 7. **Reservation** — preliminary holds before finalizing a booking  
 8. **Maintenance** — records of maintenance tasks, dates, costs, and descriptions  
 
-These tables are interrelated through **primary keys** and **foreign key constraints**, ensuring referential integrity (e.g. a booking must reference a valid car and customer, a payment must refer to a booking, etc.).
+These tables are interrelated through **primary keys** and **foreign key constraints**.
 
 
 ### Entity-Relationship (ER) Diagram
 
-Below is the visual representation of the entities and how they relate (primary / foreign keys, cardinalities):
+Below is the visual representation of the entities and how they relate.
 
-![ER Diagram for Car Rental DB](erd/ERD_CarRental.png)
+![ER Diagram for Car Rental DB](erd/CarERD.png)
 
 
 ### Goals & Learning Outcomes
@@ -51,9 +51,15 @@ This project is designed to help in:
 - Learning how to enforce relationships using foreign keys  
 - See how SQL join types work in practice.
 - Developing skills in writing clean, structured SQL scripts  
-- Presenting a full database project with documentation (schema, data, queries, ERD).
+- Presenting a full database project with documentation.
 
 #### Final Note
-This project serves as a demonstration of the concepts and skills I have learned during Week 3 of the QA/QE Training Program at Teach2Give. It reflects my growing understanding of database design, SQL querying, and data management practices.
+This project serves as a demonstration of the concepts and skills I have learned during Week 3 of the QA/QE Training Program at [**Teach2Give**](https://github.com/Teach2Give). It reflects my growing understanding of database design, SQL querying, and data management practices.
 
-A big thank you to my trainer, Brian Kemboi, for his invaluable guidance and mentorship throughout this learning journey.
+A big thank you to my trainer,[**Brian Kemboi**](https://github.com/kemboi590), for his invaluable guidance and mentorship throughout this learning journey.
+
+### 📬 Contact Me
+
+📧 **Email:** [kinuthiastephen94@email.com](mailto:kinuthiastephen94@email.com)  
+💼 **LinkedIn:** [linkedin.com/in/stephen-kinuthia](https://linkedin.com/in/stephen-kinuthia)  
+💻 **GitHub:** [github.com/stephenkinuthia-cell](https://github.com/stephenkinuthia-cell)  
